@@ -1,0 +1,21 @@
+{
+
+  "fieldGroups": [
+    {
+      "name" : "Name Here",
+      "fields" : [
+        {
+          "name": "Display Name",
+          "handle": "conciseHandle",
+          "context": "context",
+          "instructions": "instructions text",
+          "translatable": 0,
+          "type": "text",
+          "settings": []
+        },
+        {}
+      ]
+    }
+  ]
+
+}
